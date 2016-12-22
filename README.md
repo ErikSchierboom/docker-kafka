@@ -80,6 +80,6 @@ Build from Source
 Todo
 ---
 
-* Not particularily optimzed for startup time.
+* Optimize for startup time.
 * Better docs
 
